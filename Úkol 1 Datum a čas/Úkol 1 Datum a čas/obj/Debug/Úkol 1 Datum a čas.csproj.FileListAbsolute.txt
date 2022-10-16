@@ -1,0 +1,11 @@
+C:\Users\astol\Source\Repos\Ukol1_Datum-a-cas\Úkol 1 Datum a čas\Úkol 1 Datum a čas\obj\Debug\Úkol 1 Datum a čas.csproj.AssemblyReference.cache
+C:\Users\astol\Source\Repos\Ukol1_Datum-a-cas\Úkol 1 Datum a čas\Úkol 1 Datum a čas\obj\Debug\Úkol 1 Datum a čas.csproj.SuggestedBindingRedirects.cache
+C:\Users\astol\Source\Repos\Ukol1_Datum-a-cas\Úkol 1 Datum a čas\Úkol 1 Datum a čas\obj\Debug\Úkol_1_Datum_a_čas.Form1.resources
+C:\Users\astol\Source\Repos\Ukol1_Datum-a-cas\Úkol 1 Datum a čas\Úkol 1 Datum a čas\obj\Debug\Úkol_1_Datum_a_čas.Properties.Resources.resources
+C:\Users\astol\Source\Repos\Ukol1_Datum-a-cas\Úkol 1 Datum a čas\Úkol 1 Datum a čas\obj\Debug\Úkol 1 Datum a čas.csproj.GenerateResource.cache
+C:\Users\astol\Source\Repos\Ukol1_Datum-a-cas\Úkol 1 Datum a čas\Úkol 1 Datum a čas\obj\Debug\Úkol 1 Datum a čas.csproj.CoreCompileInputs.cache
+C:\Users\astol\Source\Repos\Ukol1_Datum-a-cas\Úkol 1 Datum a čas\Úkol 1 Datum a čas\bin\Debug\Úkol 1 Datum a čas.exe.config
+C:\Users\astol\Source\Repos\Ukol1_Datum-a-cas\Úkol 1 Datum a čas\Úkol 1 Datum a čas\bin\Debug\Úkol 1 Datum a čas.exe
+C:\Users\astol\Source\Repos\Ukol1_Datum-a-cas\Úkol 1 Datum a čas\Úkol 1 Datum a čas\bin\Debug\Úkol 1 Datum a čas.pdb
+C:\Users\astol\Source\Repos\Ukol1_Datum-a-cas\Úkol 1 Datum a čas\Úkol 1 Datum a čas\obj\Debug\Úkol 1 Datum a čas.exe
+C:\Users\astol\Source\Repos\Ukol1_Datum-a-cas\Úkol 1 Datum a čas\Úkol 1 Datum a čas\obj\Debug\Úkol 1 Datum a čas.pdb
